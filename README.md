@@ -1,3 +1,28 @@
+<h1 align="center">👋 Hey there, I'm <a href="https://github.com/MilkTeaMx">MilkTeaMx</a>!</h1>
+<h3 align="center">🚀 Software Engineer | 💡 AI & Full-Stack Developer | 🔬 Innovator</h3>
+
+<p align="center">
+  <a href="https://github.com/MilkTeaMx">
+    <img src="https://komarev.com/ghpvc/?username=MilkTeaMx&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/MilkTeaMx?tab=followers">
+    <img src="https://img.shields.io/github/followers/MilkTeaMx?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Passionate about **AI systems**, **cloud infrastructure**, and **full-stack development**  
+- 🧠 Experienced with **ML frameworks** (PyTorch, TensorFlow, LangChain, FAISS)  
+- 🌱 Currently exploring **distributed AI** and **MLOps**  
+- 💬 Ask me about **backend systems**, **AI pipelines**, or **frontend architecture**  
+- 📫 Reach me at: **your.email@example.com**
+
+---
+
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
