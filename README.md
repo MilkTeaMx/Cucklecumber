@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <a href="https://github.com/MilkTeaMx">MilkTeaMx</a>!</h1>
+<h1 align="center">👋 Hey there, I'm <a href="https://github.com/MilkTeaMx">Max Xiao</a>!</h1>
 <h3 align="center">🚀 Software Engineer | 💡 AI & Full-Stack Developer | 🔬 Innovator</h3>
 
 ---
@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Passionate about **AI systems**, **cloud infrastructure**, and **full-stack development**  
-- 🧠 Experienced with **ML frameworks** (PyTorch, TensorFlow)  
+- 🧠 Dual degree student at University of Michigan - Ann Arbor (Computer Science + Business)
 - 🌱 Currently exploring **distributed AI** and **MLOps**  
 - 💬 Ask me about **backend systems**, **AI pipelines**, or **fullstack architecture**  
 - 📫 Reach me at: **maxxiao@umich.edu**
